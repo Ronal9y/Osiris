@@ -55,7 +55,7 @@ export const ProjectsView = () => {
           <div className="flex justify-between gap-4 w-full items-center">
 
             <div className="flex items-center gap-2 w-full group/logo">
-              <img src="/Logo.png" alt="Osiris" className="size-[32px] md:size-[46px]" />
+              <img src="/logo-pri.png" alt="Osiris" className="size-[32px] md:size-[46px]" />
               <h1 className={cn(
                 "text-4xl md:text-5xl font-semibold",
                 font.className,
