@@ -1,7 +1,7 @@
 "use client";
 
 import { Allotment } from "allotment";
-import { TooltipProvider } from "@/components/ui/tooltip"; // Añadir esta línea
+import { TooltipProvider } from "@/components/ui/tooltip";
 
 import { ConversationSidebar } from "@/features/conversations/components/conversation-sidebar";
 

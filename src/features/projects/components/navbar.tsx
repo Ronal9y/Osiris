@@ -86,8 +86,8 @@ export const Navbar = ({
                     <Image
                       src="/Logo.png"
                       alt="Logo"
-                      width={20}
-                      height={20}
+                      width={25}
+                      height={25}
                     />
                     <span
                       className={cn(
